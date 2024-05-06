@@ -253,6 +253,7 @@ docker buildx build `
 * Renombrar imagen
 ```
 docker tag SOURCE[:tag] TARGET_IMAGE[:tag]
+```
 
 * Subir una imagen
 ```
